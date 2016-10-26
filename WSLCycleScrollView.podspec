@@ -19,7 +19,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files  = '**/*.h'
+  s.source_files  = ‘**/*.{h,m}’
   
  # s.dependency 'WSLWebImage', '~> 0.1.0’
 end
