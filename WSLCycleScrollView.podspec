@@ -21,7 +21,7 @@ TODO: Add long description of the pod here.
 
   s.source_files  = '**/*.{h,m}'
   
-  s.dependency 'WSLWebImage', '~> 0.1.0'
+  s.dependency 'SDWebImage', '~> 3.7'
 
 
 end
